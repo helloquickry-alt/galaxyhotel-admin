@@ -1,0 +1,32 @@
+export const dummyHotels = [
+  {
+    id: 1,
+    name: 'The Grand Residency',
+    location: 'Akola, Maharashtra',
+    price: 2499,
+    rating: 4.5,
+    rooms: 8,
+    status: 'Active',
+    image: 'https://images.unsplash.com/photo-1566073771259-6a8506099945?w=200&auto=format&fit=crop&q=60',
+  },
+  {
+    id: 2,
+    name: 'Nagpur Palace Inn',
+    location: 'Nagpur, Maharashtra',
+    price: 3299,
+    rating: 4.7,
+    rooms: 5,
+    status: 'Active',
+    image: 'https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=200&auto=format&fit=crop&q=60',
+  },
+  {
+    id: 3,
+    name: 'Amravati Lakeview Resort',
+    location: 'Amravati, Maharashtra',
+    price: 2899,
+    rating: 4.3,
+    rooms: 6,
+    status: 'Inactive',
+    image: 'https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?w=200&auto=format&fit=crop&q=60',
+  },
+]
